@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html, body { height: 100%; margin: 0; overflow: hidden; overscroll-behavior: none; font-family: 'Trebuchet MS', system-ui, sans-serif; }
